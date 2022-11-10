@@ -1,0 +1,86 @@
+#carouselExampleCaptions{
+    width: 75%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+#carrusel{
+    border-width: 2px;
+    border-color: black;
+}
+
+#ene22div{
+    width: 95%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background-color:aquamarine;
+    border-width: 2px;
+    border-color: black;
+}
+
+#ene22{
+    text-align: center;
+}
+
+#ene20div{
+    width: 95%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background-color:aquamarine;
+    border-width: 2px;
+    border-color: black;
+}
+
+#ene20{
+    text-align: center;
+}
+
+#contactodiv{
+    background-color: rgb(32, 255, 181);
+    width: 95%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-width: 2px;
+    border-color: black;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+
+#chiloe{
+    background-color:rgb(255, 255, 167);
+}
+
+#ptomontt{
+    background-color:rgb(255, 255, 167);
+}
+
+#frutillar{
+    background-color:rgb(255, 255, 167);
+}
+
+#ptaarenas{
+    background-color:rgb(255, 255, 167);
+}
+
+#ptonatales{
+    background-color:rgb(255, 255, 167);
+}
+
+#paine{
+    background-color:rgb(255, 255, 167);
+}
